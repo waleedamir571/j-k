@@ -59,7 +59,7 @@
                         sought-after speaker, guru, and influencer on topics ranging from science and technology to AI,
                         marketing, and publishing.
                         <br><br>
-                         At JKF Media, we specialize in helping eCommerce stores, service businesses, marketing
+                        At JKF Media, we specialize in helping eCommerce stores, service businesses, marketing
                         agencies, and global brands scale profitably with paid media. To date, we’ve generated over nine
                         figures in revenue for our clients.clients.
                     </p>

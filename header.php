@@ -59,10 +59,10 @@
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav mx-auto"> <!-- Centered Links -->
-                            <li class="nav-item active">
+                            <li class="nav-item ">
                                 <a class="nav-link" href="index.php">Home</a>
                             </li>
-                            <li class="nav-item">
+                            <li class="nav-item ">
                                 <a class="nav-link" href="about.php">About</a>
                             </li>
                             <li class="nav-item">
@@ -79,7 +79,7 @@
                             </li>
                         </ul>
                         <div class="nav-item">
-                            <a class="btn btn-info1 ml-auto uppercase" href="#">get in touch</a>
+                            <a class="btn btn-info1 ml-auto uppercase d-none1" href="#">get in touch</a>
                         </div> <!-- Left aligned button -->
                     </div>
                 </nav>

@@ -2,13 +2,12 @@
 
 
 <!-- Sub-Banner -->
-<!-- <div class="banner_outer"> -->
 <section class="banner-section">
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                 <div class="banner_content">
-                    <h1 class="text-white">Services</h1>
+                    <h1 class="text-white">Careers</h1>
                     <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                         incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida risus
                         commodo</p>
@@ -38,159 +37,79 @@
 </section>
 </div>
 <!-- About -->
-<section class="provide-section">
+
+<!-- Counter -->
+<section class="counter-section position-relative">
     <div class="container">
-        <figure class="team-sideimage mb-0">
-            <img src="assets/images/team-sideimage.png" class="img-fluid" alt="">
-        </figure>
-        <div class="row">
-            <div class="col-12">
-                <div class="provide_content" data-aos="fade-right">
-                    <h5>Services we provide</h5>
-                    <h2>Our Purpose is To Deliver Excellence in Service and Execution</h2>
-                </div>
-            </div>
+        <div class="pb-40 text-center">
+            <h5 >CURRENT OPPORTUNITIES</h5>
+            <h2 class="text-center">Be Part of a Digital Advertising Powerhouse</h2>
+            <p>We are looking for talented individuals to help shape the future of digital advertising. Whether you
+                excel in ad strategy, creative design, or data analysis, join our innovative team.</p>
         </div>
-        <div class="service_contentbox">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="service-box box-mb">
-                        <div class="box-image">
-                            <figure class="service-reboticon">
-                                <img src="assets/images/service-reboticon.png" alt="" class="img-fluid">
+        <!-- <figure class="counter-sideimage mb-0">
+            <img src="assets/images/counter-sideimage.png" class="img-fluid" alt="">
+        </figure> -->
+        <div class="container">
+            <div class="row position-relative">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                    <div class="position-relative">
+                        <a class="popup-vimeo"
+                            href="https://video-previews.elements.envatousercontent.com/h264-video-previews/d1c81f1e-849f-4d45-ae57-b61c2f5db34a/25628048.mp4">
+                            <figure class="mb-0 vediosession">
+                                <img class="thumb img-fluid" style="cursor: pointer"
+                                    src="assets/images/image-vediosession.png" alt="">
                             </figure>
-                        </div>
-                        <div class="box-content">
-                            <h4>Paid Media Advertising</h4>
-                            <p class="text-size-16">Expertly managing Facebook and Google Ads, with over $100M in ad
-                                spend and $400M in revenue generated.</p>
-                            <a class="read_more text-decoration-none" href="#">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="service-box box-mb">
-                        <div class="box-image">
-                            <figure class="service-learningicon">
-                                <img src="assets/images/service-learningicon.png" alt="" class="img-fluid">
-                            </figure>
-                        </div>
-                        <div class="box-content">
-                            <h4>eCommerce Growth Strategy</h4>
-                            <p class="text-size-16">Helping online stores scale profitably through creative testing,
-                                audience targeting, and conversion optimization.</p>
-                            <a class="read_more text-decoration-none" href="#">Read More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="service-box">
-                        <div class="box-image">
-                            <figure class="service-scienceicon">
-                                <img src="assets/images/service-scienceicon.png" alt="" class="img-fluid">
-                            </figure>
-                        </div>
-                        <div class="box-content">
-                            <h4>Mentorship & Consulting</h4>
-                            <p class="text-size-16">A program designed for eCommerce brands, agencies, and media buyers,
-                                providing weekly expert guidance from JK Franks.</p>
-                            <a class="read_more text-decoration-none" href="#">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="service-box">
-                        <div class="box-image">
-                            <figure class="service-analysicon">
-                                <img src="assets/images/service-analysicon.png" alt="" class="img-fluid">
-                            </figure>
-                        </div>
-                        <div class="box-content">
-                            <h4>Publishing & Book Marketing</h4>
-                            <p class="text-size-16">Optimizing book launches with high-performing ad campaigns, driving
-                                millions of impressions and thousands of downloads for authors using KDP and Facebook
-                                Ads.</p>
-                            <a class="read_more text-decoration-none" href="#">Read More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="service-box">
-                        <div class="box-image">
-                            <figure class="service-technologyicon">
-                                <img src="assets/images/service-technologyicon.png" alt="" class="img-fluid">
-                            </figure>
-                        </div>
-                        <div class="box-content">
-                            <h4>Webinar Training</h4>
-                            <p class="text-size-16">Free and premium webinars on advanced Facebook and Instagram ad
-                                strategies, teaching businesses how to double their revenue with JKF Media’s proven
-                                methods.</p>
-                            <a class="read_more text-decoration-none" href="#">Read More</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <div class="service-box">
-                        <div class="box-image">
-                            <figure class="service-metalicon">
-                                <img src="assets/images/service-metalicon.png" alt="" class="img-fluid">
-                            </figure>
-                        </div>
-                        <div class="box-content">
-                            <h4>Digital Advertising</h4>
-                            <p class="text-size-16">Hiring experts in paid media, digital strategy, and data analysis to
-                                join a high-performing team that’s shaping the future of performance marketing and brand
-                                growth.</p>
-                            <a class="read_more text-decoration-none" href="#">Read More</a>
-                        </div>
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- Choose -->
-<section class="choose-section">
+<!-- Info video -->
+<div class="videosection" data-aos="fade-up">
     <div class="container">
-        <figure class="choose-sideshape mb-0">
-            <img src="assets/images/choose-sideshape.png" alt="" class="img-fluid">
-        </figure>
-        <div class="row">
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-1 order-2">
-                <div class="choose_wrapper">
-                    <figure class="mb-0 choose-image1">
-                        <img src="assets/images/services/girl.png" alt="" class="">
-                    </figure>
+        <div class="row position-relative">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="position-relative">
+
+                    <div class="card2">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <input type="email" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Name">
+                        </div>
+                        <div class="col-md-6">
+                            <input type="number" class="form-control1" id="exampleInputPassword1" placeholder="Phone">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <input type="email" class="form-control1" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Name">
+                        </div>
+                        <div class="col-md-6">
+                            <input type="number" class="form-control1" id="exampleInputPassword1" placeholder="Phone">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Description" rows="4"></textarea>
+                        </div>
+                       
+                    </div>
+
+                    <br>
+
+                    <div class="button">
+                        <a class="btn btn-info1" href="#">Submit &nbsp;<img src="assets/images/home/arrow.png" alt=""></a>
+                    </div>
                 </div>
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 order-lg-2 order-1">
-                <div class="choose_content" data-aos="fade-right">
-                    <h5>Webinars</h5>
-                    <h2 class="text-white">Learn to Transform Your Advertising</h2>
-                    <p class="text-white text-size-18">Upcoming Webinar: 4 Killer Facebook Ad Strategies to Double (or
-                        More!) Your Revenue What You’ll Gain From This Free Training:</p>
-                    <ul class="list-unstyled mb-0">
-                        <li class="text-white text text-size-18"><i class="circle fa-regular fa-angle-right"></i>Strategies that have generated 7+ figures in revenue.</li>
-                        <li class="text-white text text-size-18"><i
-                                class="circle fa-regular fa-angle-right"></i>How to tailor Facebook Ads for your unique business needs.</li>
-                        <li class="text-white text text1 text-size-18"><i
-                                class="circle fa-regular fa-angle-right"></i>Updates on the latest Facebook and Instagram ad strategies.
-                        </li>
-                    </ul>
-                    <a class="btn btn-info1" href="#">Read More &nbsp;<img src="assets/images/home/arrow.png" alt=""></a>
+                  
                 </div>
             </div>
         </div>
     </div>
-    <figure class="choose-sideshape2 mb-0">
-        <img src="assets/images/choose-sideshape2.png" alt="" class="img-fluid">
-    </figure>
-</section>
+</div>
 <!--FAQ / Need section-->
 <section class="faq-section">
     <div class="container">
@@ -304,4 +223,3 @@
 </section>
 
 <?php include 'footer.php'; ?>
-

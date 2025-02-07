@@ -17,15 +17,15 @@
                         <div class="links">
                             <h4 class="heading text-white">Useful Links</h4>
                             <ul class="list-unstyled mb-0">
-                                <li><i class="fa-solid fa-angle-right"></i><a href="#"
+                                <li><i class="fa-solid fa-angle-right"></i><a href="index.php"
                                         class=" text-size-16 text text-decoration-none">Home</a></li>
-                                <li><i class="fa-solid fa-angle-right"></i><a href="#"
+                                <li><i class="fa-solid fa-angle-right"></i><a href="about.php"
                                         class=" text-size-16 text text-decoration-none">About</a></li>
-                                <li><i class="fa-solid fa-angle-right"></i><a href="#"
+                                <li><i class="fa-solid fa-angle-right"></i><a href="services.php"
                                         class=" text-size-16 text text-decoration-none">Services</a></li>
                                 <li><i class="fa-solid fa-angle-right"></i><a href="#"
                                         class=" text-size-16 text text-decoration-none">Projects</a></li>
-                                <li><i class="fa-solid fa-angle-right"></i><a href="#"
+                                <li><i class="fa-solid fa-angle-right"></i><a href="contact-us.php"
                                         class=" text-size-16 text text-decoration-none">Contact us</a></li>
                             </ul>
                         </div>
@@ -140,6 +140,9 @@ document.addEventListener("DOMContentLoaded", function () {
     else if (path.includes("publishing.php")) {
         newBg = "assets/images/services/contact.png";
     }
+    else if (path.includes("careers.php")) {
+        newBg = "assets/images/services/contact.png";
+    }
 
     if (newBg) {
         // Remove old background CSS completely
@@ -194,6 +197,28 @@ document.addEventListener("DOMContentLoaded", function () {
         },
     },
 });
+
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    // Get the current page URL
+    let currentLocation = window.location.pathname.split("/").pop();
+
+    // Get all nav links
+    let navLinks = document.querySelectorAll(".navbar-nav .nav-item .nav-link");
+
+    navLinks.forEach(link => {
+        let linkPath = link.getAttribute("href");
+
+        // If the link matches the current page, add 'active' class
+        if (linkPath === currentLocation) {
+            link.classList.add("active");
+        }
+    });
+});
+
+
 
 </script>
 
